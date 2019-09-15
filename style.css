@@ -1,0 +1,42 @@
+.header-site {
+    background-image: url(imgs/Cabecalho01.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.content-site {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.img-site {
+    
+    background-image: url(imgs/Rodape01.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding-top: 430px;
+    padding-bottom: 430px;
+}
+
+.form-site {
+    
+    padding-top: 300px;
+    padding-bottom: 300px;
+    
+}
+
+.footer-site {
+    
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
